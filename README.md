@@ -1,6 +1,6 @@
 # Summer_Analytics_2025_Assignment_1_Solution
 
-Welcome to my submission for the first assignment of **Summer Analytics 2025**, organized by the Analytics Club. This task involved working with a dataset (`Cars.csv`) using Python and performing various data analysis operations using Pandas, NumPy, and Matplotlib/Seaborn.
+Welcome to my submission for the first assignment of **Summer Analytics 2025**, organized by the Consulting and Analytics Club, IIT Guwahati. This task involved working with a dataset (`Cars.csv`) using Python and performing various data analysis operations using Pandas, NumPy, and Matplotlib/Seaborn.
 
 ##  Files Included
 
